@@ -1,0 +1,3 @@
+- [High Level Design video](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
+- [Low Level Design video Free](https://www.youtube.com/watch?v=CC7DwkQOsS0&t=1356s)
+- [Low level design paid](https://www.youtube.com/watch?v=wCyzvDn3Pp8)
