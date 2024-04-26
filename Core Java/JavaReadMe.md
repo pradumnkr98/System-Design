@@ -1,2 +1,2 @@
 INTERFACE
-(https://www.geeksforgeeks.org/functional-interfaces-java/?ref=lbp)[Functional Interface]
+[Functional Interface](https://www.geeksforgeeks.org/functional-interfaces-java/?ref=lbp)
