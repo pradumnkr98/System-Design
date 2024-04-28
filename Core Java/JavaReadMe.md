@@ -15,3 +15,7 @@ Memory Management
 - [Types of JVM garbage collectors](https://www.geeksforgeeks.org/types-of-jvm-garbage-collectors-in-java-with-implementation-details/?ref=lbp)
 - [Memory leaks in java](https://www.geeksforgeeks.org/memory-leaks-java/?ref=lbp)
 - [JVM stack area](https://www.geeksforgeeks.org/java-virtual-machine-jvm-stack-area/?ref=lbp)
+
+MULTITHREADING
+
+- [Callable](https://www.geeksforgeeks.org/callable-future-java/)
