@@ -18,6 +18,16 @@ Memory Management
 
 MULTITHREADING
 
+- [Multithreading in java](https://www.geeksforgeeks.org/multithreading-in-java/?ref=lbp)
+- [Lifecycle and States of a Thread](https://www.geeksforgeeks.org/lifecycle-and-states-of-a-thread-in-java/?ref=lbp)
+- [Thread Priority in Multithreading](https://www.geeksforgeeks.org/java-thread-priority-multithreading/?ref=lbp)
+- [Main thread in Java](https://www.geeksforgeeks.org/main-thread-java/?ref=lbp)
+- [Java.lang.Thread Class](https://www.geeksforgeeks.org/java-lang-thread-class-java/?ref=lbp)
+- [Runnable interface](https://www.geeksforgeeks.org/runnable-interface-in-java/?ref=lbp)
+- [Naming a thread and fetching name of current thread](https://www.geeksforgeeks.org/naming-thread-fetching-name-current-thread-java/?ref=lbp)
+- [What does start() function do in multithreading](https://www.geeksforgeeks.org/start-function-multithreading-java/?ref=lbp)
+- [Difference between Thread.start() and Thread.run()](https://www.geeksforgeeks.org/difference-between-thread-start-and-thread-run-in-java/?ref=lbp)
+- [Thread.sleep() Method](https://www.geeksforgeeks.org/thread-sleep-method-in-java-with-examples/?ref=lbp)
 - [Callable](https://www.geeksforgeeks.org/callable-future-java/)
 - [Countdown latch](https://www.geeksforgeeks.org/countdownlatch-in-java/)
 
@@ -30,3 +40,7 @@ SYNCHRONIZATION
 - [Difference b/w Atomic, Voltile and Synchronized](https://www.geeksforgeeks.org/difference-between-atomic-volatile-and-synchronized-in-java/?ref=lbp)
 - [Volatile Keyword](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 - [Deadlocks in Java](https://www.geeksforgeeks.org/deadlock-in-java-multithreading/?ref=lbp)
+
+REFLECTION API
+
+- [Reflection in java](https://www.geeksforgeeks.org/reflection-in-java/)
