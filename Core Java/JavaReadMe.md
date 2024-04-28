@@ -19,3 +19,14 @@ Memory Management
 MULTITHREADING
 
 - [Callable](https://www.geeksforgeeks.org/callable-future-java/)
+- [Countdown latch](https://www.geeksforgeeks.org/countdownlatch-in-java/)
+
+SYNCHRONIZATION
+
+- [Synchronization in java](https://www.geeksforgeeks.org/synchronization-in-java/?ref=lbp)
+- [Importance of thread synchronization](https://www.geeksforgeeks.org/importance-of-thread-synchronization-in-java/?ref=lbp)
+- [Method and Block synchronization](https://www.geeksforgeeks.org/method-block-synchronization-java/?ref=lbp)
+- [Lock Vs Synchronization](https://www.geeksforgeeks.org/lock-framework-vs-thread-synchronization-in-java/?ref=lbp)
+- [Difference b/w Atomic, Voltile and Synchronized](https://www.geeksforgeeks.org/difference-between-atomic-volatile-and-synchronized-in-java/?ref=lbp)
+- [Volatile Keyword](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
+- [Deadlocks in Java](https://www.geeksforgeeks.org/deadlock-in-java-multithreading/?ref=lbp)
