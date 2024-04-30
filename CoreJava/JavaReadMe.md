@@ -1,3 +1,5 @@
+- [JDK, JRE, JVM](https://www.youtube.com/watch?v=IoireaKRRFo&t=22s)
+
 INTERFACE
 
 - [Functional Interface](https://www.geeksforgeeks.org/functional-interfaces-java/?ref=lbp)
@@ -53,4 +55,4 @@ REFLECTION API
 COLLECTIONS
 
 - [Stream in Java](https://www.javatpoint.com/java-8-stream)
-- []
+- [Comparable vs comparator](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
