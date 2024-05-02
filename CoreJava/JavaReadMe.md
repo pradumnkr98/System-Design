@@ -57,5 +57,8 @@ COLLECTIONS
 - [HashSet in Java](https://www.geeksforgeeks.org/hashset-in-java/?ref=lbp)
 - [Linked Hash set](https://www.geeksforgeeks.org/linkedhashset-in-java-with-examples/?ref=lbp)
 - [Enum Set in java](https://www.geeksforgeeks.org/enumset-class-java/?ref=lbp)
+- [Sorted Set in java](https://www.geeksforgeeks.org/sortedset-java-examples/?ref=lbp)
+- [TreeSet in java](https://www.geeksforgeeks.org/treeset-in-java-with-examples/?ref=lbp)
+- [Navigable set in java](https://www.geeksforgeeks.org/navigableset-java-examples/?ref=lbp)
 - [Stream in Java](https://www.javatpoint.com/java-8-stream)
 - [Comparable vs comparator](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
